@@ -6,7 +6,7 @@
 Here are download link for our dataset and  preprocessing and classification analysis codes.
 We present the analysis results through several basic ML & DL models.
 
-![image](https://github.com/HYU-HCI/Har-handicaps/assets/133187195/4f383033-d6cb-4289-a93d-09aed0fe08b7)
+![1](https://github.com/myLABtemp/HAR-handicaps/assets/81300282/55a0f356-6bdd-4722-a58e-625582c247e1)
 
 
 ## Dependencies
@@ -131,7 +131,8 @@ HAR_result/{num_of_sensors}_sensors_X_{scenario}_{slicing_time}sec_{model_type}_
 <br/>
 
 The Result Table  
- ![image](https://github.com/HYU-HCI/Har-handicaps/assets/133187195/818e6f74-4dec-4fff-93ef-81bf4eda2a68)  
+![2](https://github.com/myLABtemp/HAR-handicaps/assets/81300282/8a7463c9-a035-438d-8086-9efddfbf8582)
+  
   
  
 More detail results including all conditions ( scenario, sensor data, model type, split type ) are described in [our paper](https://127.0.0.1)  
