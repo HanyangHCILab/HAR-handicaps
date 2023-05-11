@@ -1,5 +1,5 @@
 # Har-handicaps
-<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Zenodo-FF9E0F"/> <img src="https://img.shields.io/github/languages/code-size/myLABtemp/HAR-handicaps/survive"/> <img src="https://img.shields.io/badge/Smart Phone-green"/> <img src="https://img.shields.io/badge/Smart Watch-yellow"/>  
+<img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Zenodo-FF9E0F"/> <img src="https://img.shields.io/github/languages/code-size/HAR-handicaps/survive"/> <img src="https://img.shields.io/badge/Smart Phone-green"/> <img src="https://img.shields.io/badge/Smart Watch-yellow"/>  
 **Official database and implementation of Ubicomp 2023 paper  
 (Human Activity Recognition of Pedestrians with Mobility Disabilities)**
 
