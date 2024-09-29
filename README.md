@@ -130,23 +130,15 @@ HAR_result/{num_of_sensors}_sensors_X_{scenario}_{slicing_time}sec_{model_type}_
 
 <br/>
 
-The Result Table  
-![2](https://github.com/myLABtemp/HAR-handicaps/assets/81300282/8a7463c9-a035-438d-8086-9efddfbf8582)
-  
-  
- 
-More detail results including all conditions ( scenario, sensor data, model type, split type ) are described in [our paper](https://127.0.0.1)  
-
-
 ## Citation
 
 ```BibTeX
 @InProceedings{not yet published,
-    author    = {YEJI WOO, SUNGJIN HWANG, SUNGYOON LEE, YOUNGWUG CHO, HANSUNG KIM, JAEHYUK CHA, KWANGUK (KENNY) KIM*},
-    title     = {Human Activity Recognition of Pedestrians with Mobility Disabilities},
-    booktitle = {Proceedings of the 2023 ACM Conference on Pervasive and Ubiquitous Computing (Ubicomp)},
+    author    = {YEJI WOO, SUNGJIN HWANG, SEUNGWOO OH, SUNGYOON LEE, HANSUNG KIM, JAEHYUK CHA, KWANGUK (KENNY) KIM*},
+    title     = {Human Activity Recognition Dataset for Pedestrians with Mobility Disabilities},
+    booktitle = {Scientific Data},
     month     = {not yet published},
-    year      = {2023},
+    year      = {2024},
     pages     = {not yet published}
 }
 ```
