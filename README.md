@@ -123,9 +123,9 @@ The Result file
 <br/>
 
 ```bash
-HAR_result/{num_of_sensors}_sensors_X_{scenario}_{slicing_time}sec_{model_type}_{split}_result-{fold}.txt" // classification_reports
-HAR_result/{num_of_sensors}_sensors_X_{scenario}_{slicing_time}sec_{model_type}_{split}.t" // model
-HAR_result/{num_of_sensors}_sensors_X_{scenario}_{slicing_time}sec_{model_type}_{split}_model-{fold}.png" // confusion matrix
+HAR_result/{num_of_sensors}_sensors_{devices}_{scenario}_{slicing_time}sec_{model_type}_{split}_result-{fold}.txt" // classification_reports
+HAR_result/{num_of_sensors}_sensors_{devices}_{scenario}_{slicing_time}sec_{model_type}_{split}.t" // model
+HAR_result/{num_of_sensors}_sensors_{devices}_{scenario}_{slicing_time}sec_{model_type}_{split}_model-{fold}.png" // confusion matrix
 ```
 
 <br/>
