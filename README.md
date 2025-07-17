@@ -1,4 +1,4 @@
-# Har-handicaps
+# HAR-handicaps
 <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Zenodo-FF9E0F"/> <img src="https://img.shields.io/github/languages/code-size/HAR-handicaps/survive"/> <img src="https://img.shields.io/badge/Smart Phone-green"/> <img src="https://img.shields.io/badge/Smart Watch-yellow"/>  
 **Official database and implementation of Scientific Data 2025 paper  
 (Human Activity Recognition Dataset for Pedestrians with Mobility Disabilities)**
